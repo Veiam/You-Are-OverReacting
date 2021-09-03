@@ -1,6 +1,13 @@
 # Or am I under reacting?
 
-React trial projects go here.
+Multiple old public repositories have been merged into this one repo.
+
+Contains React Trials and Projects files from the past.
+
+This does not contain any private repositories.
+
+## Pet Adoption
+Simple Mock-up site built using React
 
 ## Tic Tac Toe
 Demo project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
