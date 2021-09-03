@@ -1,6 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Or am I under reacting?
 
-## Available Scripts
+React trial projects go here.
+
+## Tic Tac Toe
+Demo project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Available Scripts
 
 In the project directory, you can run:
 
